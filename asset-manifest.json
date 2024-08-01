@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Registration-Form-Using-React/static/css/main.50eb9adb.css",
+    "main.js": "/Registration-Form-Using-React/static/js/main.c208450e.js",
+    "static/js/453.d95c2e12.chunk.js": "/Registration-Form-Using-React/static/js/453.d95c2e12.chunk.js",
+    "static/media/fa-solid-900.ttf": "/Registration-Form-Using-React/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/fa-brands-400.ttf": "/Registration-Form-Using-React/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/Registration-Form-Using-React/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/Registration-Form-Using-React/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/fa-regular-400.ttf": "/Registration-Form-Using-React/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/fa-regular-400.woff2": "/Registration-Form-Using-React/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Registration-Form-Using-React/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Registration-Form-Using-React/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "/Registration-Form-Using-React/index.html",
+    "main.50eb9adb.css.map": "/Registration-Form-Using-React/static/css/main.50eb9adb.css.map",
+    "main.c208450e.js.map": "/Registration-Form-Using-React/static/js/main.c208450e.js.map",
+    "453.d95c2e12.chunk.js.map": "/Registration-Form-Using-React/static/js/453.d95c2e12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50eb9adb.css",
+    "static/js/main.c208450e.js"
+  ]
+}
